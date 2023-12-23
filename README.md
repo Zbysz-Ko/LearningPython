@@ -1,2 +1,5 @@
 # LearningPython
-My small projects 
+Some of my work collected while learning Python.
+
+## Content
+
