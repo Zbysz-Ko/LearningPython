@@ -7,7 +7,3 @@ Some of my work collected while learning Python.
 + selenium_bgg-top3.py - recieve three best boardgames from boardgamegeek.com using Selenium
 + selenium_bgg-login.py - sign in boardgamegeek.com using Selenium
 + selenium_bgg-game-search.py - search for a game on BGG (pharse) and return first result
-
-### Checkio
-
-Some task from Checkio.org
